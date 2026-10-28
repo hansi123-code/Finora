@@ -1,4 +1,4 @@
-Finora – Personal Finance Dashboard
+                         Finora – Personal Finance Dashboard
 
 Finora is a personal finance dashboard designed to help users manage their financial activities through transaction tracking, budget management, and savings goals.
 
@@ -19,23 +19,15 @@ Frontend and Backend Integration – Connect the user interface with backend API
 Technologies Used
 
 Frontend
-
-React.js
-
-Vite
-
-JavaScript
-
-CSS
+-React.js
+-Vite
+-JavaScript
+-CSS
 
 Backend
-
-PHP
-
-Laravel
-
-REST API
+-PHP
+-Laravel
+-REST API
 
 Database
-
-MySQL
+-MySQL
